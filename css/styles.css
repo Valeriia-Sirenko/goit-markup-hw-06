@@ -1430,7 +1430,7 @@ input::placeholder {
   .text-advantages {
     font-weight: 400;
   }
-  .container-advantages-icon {
+  /* .container-advantages-icon {
     border: 1px solid #8e8f99;
     border-radius: 4px;
     display: flex;
@@ -1442,13 +1442,11 @@ input::placeholder {
     margin-bottom: 8px;
     padding: 24px 0;
     gap: 24px;
-  }
+  } */
   .advantages-icon {
     margin: auto;
   }
-  .container-team {
-    min-width: 1158px;
-  }
+
   .list-team {
     gap: 24px;
   }
@@ -1513,8 +1511,6 @@ input::placeholder {
     flex-basis: calc((100% - 24px) / 2);
   }
 
-  .container-team {
-  }
   .list-team {
     gap: 64px 24px;
   }
